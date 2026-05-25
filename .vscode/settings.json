@@ -20,7 +20,7 @@
   "[json]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "files.autoSave": "onFocusChange",
+  "files.autoSave": "afterDelay",
   "files.trimTrailingWhitespace": true,
   "files.insertFinalNewline": true,
   "explorer.confirmDelete": true,
